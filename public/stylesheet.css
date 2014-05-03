@@ -1,0 +1,23 @@
+h1 {border-radius: 80px; color:darkslategray; margin-left: auto; margin-right: auto; text-align: center; 
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+max-width: 600px; max-height: 160px; border-radius: 10px; background-color: cornsilk; }
+
+h2 {border-radius: 50px; color: darkslategray; border-radius: 10px; background-color: cornsilk;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+text-align: center;max-width: 600px; max-height: 160px; margin-left: auto; margin-right: auto;}
+
+#first-group 
+{border-radius: 10px; background-color: cornsilk; color : darkslategray;text-align: center;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+max-width: 600px; max-height: 350px; margin-left: auto;
+margin-right: auto;}
+
+#button1,#button2,#button3,#button4,#button5
+{color: darkslategray; display: inline; word-spacing: 50px;
+max-width: 600px; max-height: 160px;margin-left: auto;margin-right: auto; }
+
+
+.section {background-color: cornsilk; margin-left: auto;margin-right: auto;
+font-family:"Trebuchet MS", Helvetica, sans-serif; max-width: 400px; max-height: 160px; text-align:center;} 
+
+#image-group {text-align: center;} 
